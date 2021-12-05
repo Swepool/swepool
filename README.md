@@ -9,8 +9,6 @@
 
 </br>
 
-### My stats
-</br>
 <a href="https://github.com/swepool/github-readme-stats">
    <img width="60%" alt="swepool's github stats" src="https://github-readme-stats.vercel.app/api?username=swepool&show_icons=true&hide_border=true" />
 </a>
