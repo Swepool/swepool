@@ -1,5 +1,8 @@
 # Hi there 👋
 
+<p>I'm Lukas, A learning developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b></p>
+
+
 ### Things I know or currently learning </br>
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Swepool)](https://github.com/Swepool) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Swepool)](https://github.com/Swepool) 
@@ -16,18 +19,3 @@
 <p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=swepool.swepool" alt="visitor badge"/>
 </p>
-
-<!--
-**Swepool/swepool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
