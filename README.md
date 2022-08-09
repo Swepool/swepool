@@ -2,6 +2,13 @@
 
 <p>I'm Lukas, A learning developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b></p>
 
+### Currently working on
+- [Kryptokrona Swag](https://kryptokrona.org)
+- [Kryptokrona Website](https://kryptokrona.org)
+- [A new kryptokrona wallet](https://github.com/Swepool/Kryptokrona-wallet)
+- [Hugin Messenger](https://github.com/kryptokrona/hugin-svelte)
+- [A simple hugin-discord](https://github.com/kryptokrona/hugin-bridge)
+
 
 ### Things I know or currently learning </br>
 ![html](https://user-images.githubusercontent.com/36674091/162633234-3e883dc1-b24e-44d9-b0d3-15d0b9121d7f.png)
