@@ -20,10 +20,3 @@
 ![Netlify](https://user-images.githubusercontent.com/36674091/162633238-e085a334-a5b0-4d6f-b444-bc04c4c56827.png)
 ![github](https://user-images.githubusercontent.com/36674091/162633233-03d6f7ae-e443-43cc-a635-4873fd78aa4a.png)
 ![webstorm](https://user-images.githubusercontent.com/36674091/162633246-7620255b-94d3-4293-9948-08a15e5443ea.png)
-
-
-</br>
-
-<a href="https://github.com/swepool/github-readme-stats">
-   <img width="60%" alt="swepool's github stats" src="https://github-readme-stats.vercel.app/api?username=swepool&show_icons=true&hide_border=true" />
-</a>
