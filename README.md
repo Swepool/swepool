@@ -3,11 +3,10 @@
 <p>I'm Lukas, A learning developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b></p>
 
 ### Currently working on
-- [Kryptokrona Swag](https://store.kryptokrona.org/)
-- [Kryptokrona Website](https://kryptokrona.org)
-- [A new kryptokrona wallet](https://github.com/Swepool/Kryptokrona-wallet)
-- [Hugin Messenger](https://github.com/kryptokrona/hugin-svelte)
-- [A simple hugin-discord](https://github.com/kryptokrona/hugin-bridge)
+- [ApeSpace](https://apespace.io/)
+
+#### And on my spare time
+- [Kryptokrona](https://kryptokrona.org)
 
 
 ### Things I know or currently learning </br>
