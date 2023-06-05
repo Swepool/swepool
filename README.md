@@ -7,6 +7,7 @@
 
 #### And on my spare time
 - [Kryptokrona](https://kryptokrona.org)
+- [PeerBeer](https://peer.beer)
 
 
 ### Things I know or currently learning </br>
