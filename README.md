@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p>I'm Lukas, A learning developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b></p>
+<p>I'm Lukas, A frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b></p>
 
 ### Currently working on
 - [ApeSpace](https://apespace.io/)
