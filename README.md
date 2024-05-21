@@ -5,7 +5,7 @@
 #### I spend my time at
 - [Chateau](https://www.chateau.capital/)
 
-#### Previously worked at
+#### Previously
 - [ApeSpace](https://apespace.io)
 - [NBX](https://app.nbx.com/)
 - [Nahmii](https://www.nahmii.io/)
