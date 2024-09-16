@@ -10,8 +10,3 @@
 - [ApeSpace](https://apespace.io)
 - [NBX](https://app.nbx.com/)
 - [Nahmii](https://www.nahmii.io/)
-
-
-#### When I have time over I fiddle with.
-- [Kryptokrona](https://kryptokrona.org)
-- [PeerBeer](https://peer.beer)
