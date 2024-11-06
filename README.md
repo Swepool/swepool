@@ -7,6 +7,6 @@
 
 #### Previously
 - [Chateau](https://www.chateau.capital/)
+- [Butane](https://butane.dev/)
 - [ApeSpace](https://apespace.io)
 - [NBX](https://app.nbx.com/)
-- [Nahmii](https://www.nahmii.io/)
